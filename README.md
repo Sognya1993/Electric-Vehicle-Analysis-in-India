@@ -7,7 +7,7 @@ This Power BI project provides a comprehensive and data-driven analysis of India
 ## 🚀 Explore the Data
 
 * **Interactive Dashboard:** [Dive into the Data](https://app.powerbi.com/reportEmbed?reportId=be8b6043-3e35-48f9-9885-be24ea8a14f3&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
-* **LinkedIn Post:** [Join the Conversation]()
+* **LinkedIn Post:** [Join the Conversation](https://www.linkedin.com/posts/seema123_codebasics-dhaval-hemanand-activity-7298307379278831618-KY4Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbHMhIBEiKOQp2Fk2gaBSCjwfPwM65Z0rQ)
 
 ## 🎯 Project Overview
 
